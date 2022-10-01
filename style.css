@@ -1,0 +1,74 @@
+.main{
+    background-image: url(bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 50%;
+}
+.text{
+    color: white;
+    text-align: center;
+}
+.buton{
+    padding: 5px 20px;
+}
+.main-p{
+    padding: 40px 0px 80px 0px;
+}
+.bg{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 50%;
+    background-image: url(bgg.jpg);
+}
+.bgg{
+    background-color: #ededed;
+}
+.what-text{
+    font-size: 12px;
+}
+.p-size{
+    font-size: 10px;
+    color: white;
+    height: 60px;
+    width: 300px;
+}
+.what-spisok{
+
+}
+.spisok{
+    background-color: #00000056;
+    border-radius: 10px;
+    padding: 3px;
+    
+}
+.mt-2{
+    text-align: center;
+}
+.ss{
+    justify-content: space-between;
+}
+.futter{
+    background-color: black;
+    padding: 20px;
+    height: 140px;
+}
+.ico{
+    color: white;
+}
+.futt{
+    background-color: black;
+    height: 140px;
+    text-align: center;
+}
+.txt{
+font-size: 13px;
+text-align: center;
+}
+.number{
+font-size: 20px;
+text-align: center;
+}
+i{
+    font-size: 30px;
+
+}
